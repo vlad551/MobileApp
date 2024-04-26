@@ -1,10 +1,18 @@
 [
-  {"photo": "erudit.jpg"},
-  {"photo": "football.jpg"},
-  {"photo": "letstry.jpg"},
-  {"photo": "maraphon.jpg"},
-  {"photo": "standup.jpg"},
-  {"photo": "chess.jpg"},
-  {"photo": "donate.jpg"},
-  {"photo": "epam.jpg"}
+  {"photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/erudit.jpg"},
+  {"photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/football.jpg"},
+  {"photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/letstry.jpg"},
+  {"photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/maraphon.jpg"},
+  {"photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/standup.jpg"},
+  {"photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/chess.jpg"},
+  {"photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/donate.jpg"},
+  {"photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/epam.jpg"},
+  {"photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/erudit.jpg"},
+  {"photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/football.jpg"},
+  {"photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/letstry.jpg"},
+  {"photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/maraphon.jpg"},
+  {"photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/standup.jpg"},
+  {"photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/chess.jpg"},
+  {"photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/donate.jpg"},
+  {"photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/epam.jpg"}
 ]
