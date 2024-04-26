@@ -9,42 +9,42 @@
     "title": "Чемпіонат з футзалу",
     "date": "13.03.24",
     "description": "Футзальна команда Житомирської політехніки – учасник Play-off ХХІІ Чемпіонату України з футзалу серед ЗВО",
-    "photo": "football.jpg"
+    "photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/football.jpg"
   },
   {
     "title" : "#Спробуй",
     "date" : "29.03.24",
     "description" : "Акція #Спробуй: здай кров для військових і цивільних",
-    "photo": "letstry.jpg"
+    "photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/letstry.jpg"
   },
   {
     "title" : "Марафон IT без коду",
     "date" : "14.03.24",
     "description" : "На марафоні буде багато практики, цікавих матеріалів, а найголовніше — корисні призи.",
-    "photo": "maraphon.jpg"
+    "photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/maraphon.jpg"
   },
   {
     "title" : "Standup",
     "date" : "20.03.24",
     "description" : "У тебе є купа смішних життєвих історій і ти бажаєш поділитися ними зі світом?",
-    "photo": "standup.jpg"
+    "photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/standup.jpg"
   },
   {
     "title" : "Шаховий турнір",
     "date" : "5.04.24",
     "description" : " Турнір з шахів від Житомирської Політехніки!",
-    "photo": "chess.jpg"
+    "photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/chess.jpg"
   },
   {
     "title" : "Підтримай збір!",
     "date" : "12.04.24",
     "description" : "Твій донат - шлях до перемоги!",
-    "photo": "donate.jpg"
+    "photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/donate.jpg"
   },
   {
     "title" : "Відкриті набори EPAM University",
     "date" : "16.04.24",
     "description" : "Усі відкриті програми EPAM University — в одному дописі.",
-    "photo": "epam.jpg"
+    "photo": "https://raw.githubusercontent.com/vlad551/MobileApp/main/photos/epam.jpg"
   }
 ]
